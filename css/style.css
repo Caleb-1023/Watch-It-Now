@@ -188,7 +188,7 @@ a {
 
 /* Registration */
 #registration {
-  padding: 2rem 15rem;
+  padding: 2rem 10rem;
   background-color: #fcaf57;
 }
 
@@ -254,7 +254,7 @@ a {
   height: 20rem;
   border-radius: 0.4rem;
   /* justify-self: center; */
-  margin: 0.6rem;
+  margin: 0.4rem;
   margin-top: 0;
   /* box-shadow: 3px 3px rgba(85, 85, 85, 0.274); */
 }
@@ -263,7 +263,7 @@ a {
   /* height: 50rem; */
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  gap: 0.5rem;
+  /* gap: 0.5rem; */
   align-content: center;
 }
 
