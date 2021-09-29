@@ -247,7 +247,16 @@ a {
 /* Gallery */
 #gallery {
   margin: 2rem auto;
+  /* width: 80%; */
+}
+
+#gallery .heading {
+  margin-left: 10%;
+}
+
+#gallery .titles-container {
   width: 80%;
+  margin: auto;
 }
 
 #gallery .titles img {
@@ -286,13 +295,7 @@ a {
   }
 }
 
-#gallery .titles .movie {
-  /* display: flex; */
-  /* flex-direction: column; */
-  /* justify-content: center; */
-  /* align-items: center; */
-}
-
+/* Footer */
 #footer {
   background: #000;
   color: #fff;
